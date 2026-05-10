@@ -1,6 +1,5 @@
 import requests
 
-# Arkadaşının çalıştırdığı o anahtar ve model ismiyle gidiyoruz
 API_KEY = "AIzaSyBbKptHnvMkawg4OiyQHDzVqd-R1Sc8CW0"
 URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key={API_KEY}"
 
